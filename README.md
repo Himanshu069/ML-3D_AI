@@ -1,4 +1,4 @@
-# 3D-AI-learning
+# 3D-AI
 
 Point_Cloud_Classifier.ipynb
 -Randomly generated dataset of 3d objects was used which were classified by using PointNet Architecture.
