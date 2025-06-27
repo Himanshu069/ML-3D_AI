@@ -1,4 +1,4 @@
-#ML and Deep Learning Projects
+<h3>ML and Deep Learning Projects</h3>
 
 temperature_data(linear_regression).ipynb
 -Implemented Linear Regression model to estimate the missing values from given temperature dataset
