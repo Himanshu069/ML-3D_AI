@@ -1,4 +1,4 @@
-# ML-mini-projects_learning
+<<<<<<< HEAD
 
 temperature_data(linear_regression).ipynb
 -Implemented Linear Regression model to estimate the missing values from given temperature dataset
@@ -13,5 +13,12 @@ student_data(supervised and Unsupervised Learning).ipynb
 
 
 mnist.ipynb
-digit classification was done using mnist dataset by logistic regression model which was then fed into sigmoid activation function ,
-SGD algorithm was used for optimization and the model was trained for 20 epochs in sets of 5.
+-digit classification was done using mnist dataset by logistic regression model which was then fed into sigmoid activation function ,
+-SGD algorithm was used for optimization and the model was trained for 20 epochs in sets of 5.
+
+Point_Cloud_Classifier.ipynb
+-Randomly generated dataset of 3d objects was used which were classified by using PointNet Architecture.
+
+VAE.ipynb
+-Implemented VAE to create images of digits using MNIST dataset.
+>>>>>>> 3D-AI/main
