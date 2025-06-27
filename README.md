@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 temperature_data(linear_regression).ipynb
 -Implemented Linear Regression model to estimate the missing values from given temperature dataset
@@ -21,4 +20,6 @@ Point_Cloud_Classifier.ipynb
 
 VAE.ipynb
 -Implemented VAE to create images of digits using MNIST dataset.
->>>>>>> 3D-AI/main
+
+DGCNN.ipynb
+-Impementation of DGCNN architecture in ModelNet40 dataset for classification
